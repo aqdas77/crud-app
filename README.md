@@ -1,6 +1,6 @@
 # CRUD Application
 
-Task App is a powerful and secure task management application designed to help you stay organized and productive. Easily create, update, and manage your tasks with this user-friendly web-based application, all while benefiting from JWT-based user authentication for enhanced security.
+A CRUD appliaction in which user can register, login, update or delete its profile and JWT is used for authentication during login.
 
 ## Features
 JWT User Authentication: Securely create an account, log in, and access your tasks using JSON Web Tokens (JWT) for robust authentication and authorization.
